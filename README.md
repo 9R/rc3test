@@ -12,8 +12,13 @@ Da voraussichtlich einige von uns gleichzeitig an der assembly arbeiten werden b
 * benutzt dabei deskriptive dateinamen &
 * legt unterordner für verschiedene kategorien an
 
+* wenn ihr anfangt einen neuen bereiche in einer bestehenden map zu erstellen, benutzt das `zoning`-layer um diesen zu reservieren (commit & push nicht vergessen)
+
 * commits:
   * lieber kleine & viele, als riesige änderungen auf einen schlag
   * pusht häufig, damit die andern eueren vorschitt sehen!
   * pullt regelmäßig, damit ihr seht was die anderen machen!
   * verständliche commit messages!
+
+und das wichtigste: Stimmt euch ab!!!
+
