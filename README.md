@@ -3,7 +3,9 @@
 ## Mitmachen
 
 ### überblick und anleitung der tools:
-https://codimd.c3d2.de/WA-Zone-Einstieg-06
+[tutorial & resources](https://codimd.c3d2.de/WA-Zone-Einstieg-06)
+
+[µc³-testassembly](https://test.visit.at.wa-test.rc3.cccv.de/_/global/raw.githubusercontent.com/muccc/rc3test/master/main.json)
 
 Da voraussichtlich einige von uns gleichzeitig an der assembly arbeiten werden beachtet bitte folgendes um merge-konflikte zu vermeiden:
 
