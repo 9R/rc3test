@@ -10,7 +10,7 @@
 Da voraussichtlich einige von uns gleichzeitig an der assembly arbeiten werden beachtet bitte folgendes um merge-konflikte zu vermeiden:
 
 * zusatzliche tiles in `/tiles_png/`
-* selbstgepixeltes src files gehören nach `/tiles_kra`
+* selbstgepixeltes src files gehören nach `/tiles_src`
 * benutzt dabei deskriptive dateinamen &
 * legt unterordner für verschiedene kategorien an
 
