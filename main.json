@@ -2332,6 +2332,15 @@
                          "type":"bool",
                          "value":true
                         }]
+                }, 
+                {
+                 "id":2091,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }],
          "tilewidth":32
         }, 
@@ -2744,6 +2753,43 @@
                         }]
                 }, 
                 {
+                 "animation":[
+                        {
+                         "duration":700,
+                         "tileid":641
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":685
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":729
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":773
+                        }, 
+                        {
+                         "duration":2000,
+                         "tileid":817
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":773
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":729
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":685
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":641
+                        }],
                  "id":203,
                  "properties":[
                         {
@@ -2753,6 +2799,43 @@
                         }]
                 }, 
                 {
+                 "animation":[
+                        {
+                         "duration":700,
+                         "tileid":642
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":686
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":730
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":774
+                        }, 
+                        {
+                         "duration":2000,
+                         "tileid":818
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":774
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":730
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":686
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":642
+                        }],
                  "id":204,
                  "properties":[
                         {
@@ -2762,6 +2845,43 @@
                         }]
                 }, 
                 {
+                 "animation":[
+                        {
+                         "duration":700,
+                         "tileid":663
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":707
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":751
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":795
+                        }, 
+                        {
+                         "duration":2000,
+                         "tileid":839
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":795
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":751
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":707
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":663
+                        }],
                  "id":225,
                  "properties":[
                         {
@@ -2771,6 +2891,43 @@
                         }]
                 }, 
                 {
+                 "animation":[
+                        {
+                         "duration":700,
+                         "tileid":664
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":708
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":752
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":796
+                        }, 
+                        {
+                         "duration":2000,
+                         "tileid":840
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":796
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":752
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":708
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":664
+                        }],
                  "id":226,
                  "properties":[
                         {
