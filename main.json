@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wiki.muc.ccc.de\/rc3:tafel2"
+                 "value":"https:\/\/muccc.github.io\/rc3test\/"
                 }],
          "type":"tilelayer",
          "visible":true,
