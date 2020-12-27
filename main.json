@@ -467,9 +467,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl#",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"<lounge>\/main.js#start6"
+                 "value":"{<lounge>\/main.json#start6}"
                 }],
          "type":"tilelayer",
          "visible":true,
