@@ -60,7 +60,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":".\/mp3\/range.mp3"
+                 "value":".\/range\/range.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -75,7 +75,7 @@
          "name":"maze",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":10,
          "x":0,
          "y":0
@@ -87,7 +87,7 @@
          "name":"deko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":10,
          "x":0,
          "y":0
