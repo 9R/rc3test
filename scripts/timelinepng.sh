@@ -24,7 +24,7 @@ for c in $commits ; do
   done
 
   # create empty frame
-  montage -gemoetry $TILEXx$TILEY+2+2 -tile 5x5 -background black $WORKDIR/* $OUTDIR/$PFRAME.png 
+  montage -geometry $TILEXx$TILEY+2+2 -tile 5x5 -background black $WORKDIR/* $OUTDIR/$PFRAME.png 
 
   rm $WORKDIR/*
 
