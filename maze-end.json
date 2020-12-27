@@ -56,6 +56,12 @@
          "id":7,
          "name":"floor",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":".\/mp3\/range.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":10,
