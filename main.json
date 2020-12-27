@@ -451,7 +451,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-south.json#start_muccc}"
+                 "value":"https:\/\/lobby.maps.at.rc3.world\/\/maps\/erfas-south.json#start_muccc"
                 }],
          "type":"tilelayer",
          "visible":true,
