@@ -270,8 +270,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":901,
-         "source":"floors.tsx"
+         "image":"tiles_png\/basics\/floors.png",
+         "imageheight":256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"floors",
+         "spacing":0,
+         "tilecount":64,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":9,
@@ -313,8 +322,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":10,
          "firstgid":2368,
-         "source":"mc3tileset.tsx"
+         "image":"tiles_png\/mc3tileset.png",
+         "imageheight":640,
+         "imagewidth":320,
+         "margin":0,
+         "name":"mc3tileset",
+         "spacing":0,
+         "tilecount":200,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":1,
