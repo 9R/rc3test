@@ -1,8 +1,8 @@
 #!/bin/bash
 
 OUTDIR=timeline
-SIZEX=1920
-SIZEY=1080
+TILEX=1920
+TILEY=1080
 WORKDIR=$OUTDIR/tmp
 
 commits=$(git log |grep commit|cut -d " " -f2|tac)
@@ -24,8 +24,8 @@ for c in $commits ; do
   done
 
   # create empty frame
-#  convert -size $SIZEXx$SIZEY $FRAME.png
-  montage -tile 5x5 -background black $WORKDIR/* $OUTDIR/$PFRAME.png 
+  montage -gemoetry $TILEXx$TILEY+2+2 -tile 5x5 -background black $WORKDIR/* $OUTDIR/$PFRAME.png 
+
   rm $WORKDIR/*
 
   let FRAME=$FRAME+1
