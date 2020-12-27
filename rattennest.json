@@ -150,7 +150,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitsceneURL",
+                 "name":"exitSceneURL",
                  "type":"string",
                  "value":"main.json#entrywall"
                 }],
