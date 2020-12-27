@@ -17,7 +17,7 @@ for c in $commits ; do
   BY=$(git show -s --format="%a$c")
   DATE=$(git show -s --format="%a$d")
   PFRAME=$(printf "%03d" $FRAME)
-#  git checkout $c
+  git checkout $c
   for m in *.json; do
     NAME=${m%%.*}
     tmxrasterizer $m $WORKDIR/$PFRAME_$NAME.png
