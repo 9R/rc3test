@@ -72,7 +72,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/rc3\/me\/redeem_badge\/elK8dwjzll7DPbcYklkx58GtETOF1RqYltvQY3ZT41SQVwXapc "
+                 "value":"https:\/\/rc.world\/rc3\/me\/redeem_badge\/elK8dwjzll7DPbcYklkx58GtETOF1RqYltvQY3ZT41SQVwXapc "
                 }],
          "type":"tilelayer",
          "visible":true,
