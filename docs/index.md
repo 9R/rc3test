@@ -3,7 +3,7 @@
 ## Proudly created by [munich ccc](https://muc.ccc.de) and [card10](https://card10.badge.events.ccc.de/)-teams
 
 ## News:
-* you can now [play a game on our ACAB](https://pla.y.nu/acab/) - best after sunset
+* you can now <a href="https://pla.y.nu/acab/" target="_blank">play a game on our ACAB</a> - best after sunset
 * you can send your own animations to our [flipdot-display](https://wiki.muc.ccc.de/flipdot:start)
 * there's a badge to earn in our maze
 
