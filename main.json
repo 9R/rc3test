@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{\/_\/global\/c0c0bird.codeberg.page\/main.json#start_muccc}"
+                 "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json#start_muccc"
                 }],
          "type":"tilelayer",
          "visible":true,
