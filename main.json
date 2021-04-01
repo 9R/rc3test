@@ -3359,6 +3359,15 @@
                          "tileid":952
                         }],
                  "id":842
+                }, 
+                {
+                 "id":883,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }],
          "tilewidth":32
         }, 
