@@ -2,10 +2,21 @@
 
 ## Mitmachen
 
+### Software
+#### Pixeln
+
+free, open source: [krita](https://krita.org/)
+commercial (with free trial) [aseprite](https://www.aseprite.org/)
+
+#### Kartenbearbeitung
+
+[tiled](https://krita.org/)
+
 ### überblick und anleitung der tools:
 [tutorial & resources](https://codimd.c3d2.de/WA-Zone-Einstieg-06)
+[official documentation](https://workadventu.re/map-building/)
+[rc3 doku](https://howto.rc3.world)
 
-[µc³-testassembly](https://test.visit.at.wa-test.rc3.cccv.de/_/global/raw.githubusercontent.com/muccc/rc3test/master/main.json)
 
 Da voraussichtlich einige von uns gleichzeitig an der assembly arbeiten werden beachtet bitte folgendes um merge-konflikte zu vermeiden:
 
@@ -24,3 +35,5 @@ Da voraussichtlich einige von uns gleichzeitig an der assembly arbeiten werden b
 
 und das wichtigste: Stimmt euch ab!!!
 
+### Testing
+[µc³-testassembly](https://party.tabascoeye.de/_/global/raw.githubusercontent.com/muccc/rc3test/master/main.json)
