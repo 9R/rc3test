@@ -6,6 +6,7 @@
 #### Pixeln
 
 free, open source: [krita](https://krita.org/)
+
 commercial (with free trial) [aseprite](https://www.aseprite.org/)
 
 #### Kartenbearbeitung
@@ -14,7 +15,9 @@ commercial (with free trial) [aseprite](https://www.aseprite.org/)
 
 ### überblick und anleitung der tools:
 [tutorial & resources](https://codimd.c3d2.de/WA-Zone-Einstieg-06)
+
 [official documentation](https://workadventu.re/map-building/)
+
 [rc3 doku](https://howto.rc3.world)
 
 
