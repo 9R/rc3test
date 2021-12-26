@@ -13,7 +13,12 @@ commercial (with free trial) [aseprite](https://www.aseprite.org/)
 
 [tiled](https://www.mapeditor.org/)
 
+##### Nützliche Plugins
+
+[Multitile Animationen](https://github.com/sergkr/tiled-bulk-animations)
+
 ### überblick und anleitung der tools:
+
 [tutorial & resources](https://codimd.c3d2.de/WA-Zone-Einstieg-06)
 
 [official documentation](https://workadventu.re/map-building/)
