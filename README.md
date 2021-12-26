@@ -11,7 +11,7 @@ commercial (with free trial) [aseprite](https://www.aseprite.org/)
 
 #### Kartenbearbeitung
 
-[tiled](https://krita.org/)
+[tiled](https://www.mapeditor.org/)
 
 ### überblick und anleitung der tools:
 [tutorial & resources](https://codimd.c3d2.de/WA-Zone-Einstieg-06)
@@ -39,4 +39,4 @@ Da voraussichtlich einige von uns gleichzeitig an der assembly arbeiten werden b
 und das wichtigste: Stimmt euch ab!!!
 
 ### Testing
-[µc³-testassembly](https://party.tabascoeye.de/_/global/raw.githubusercontent.com/muccc/rc3test/master/main.json)
+[µc³-testassembly](http://play.world.fem-net.de/_/global/raw.githubusercontent.com/muccc/rc3test/master/main.json)
