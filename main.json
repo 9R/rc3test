@@ -49,6 +49,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/muc.ccc.de\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -67,6 +72,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/p0stap0calyptic.wordpress.com\/malerei\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -85,6 +95,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/en.wikipedia.org\/wiki\/Eris_(mythology)"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -98,6 +113,12 @@
          "id":47,
          "name":"website_fbomb",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -115,6 +136,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/muccc.github.io\/rc3test\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -133,6 +159,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/engel-simulator.club\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
