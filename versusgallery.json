@@ -5127,6 +5127,12 @@
          "imagewidth":120,
          "margin":0,
          "name":"veras1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":15,
          "tileheight":32,
