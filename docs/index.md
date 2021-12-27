@@ -16,3 +16,16 @@
 * the [Engel Simulator](http://engel-simulator.club/), a game created with Rust and Web Assembly
 * more than one place to get lost
 
+## urls for ingame-jitsis:
+* [https://jitsi.rc3.world/rc321mucccmucccmuccc-hauptraum](https://jitsi.rc3.world/rc321mucccmucccmuccc-hauptraum)
+* [https://jitsi.rc3.world/rc321mucccmucccmuccc-couches](https://jitsi.rc3.world/rc321mucccmucccmuccc-couches)
+* [https://jitsi.rc3.world/rc321mucccmucccmuccc-acab](https://jitsi.rc3.world/rc321mucccmucccmuccc-acab)
+* [https://jitsi.rc3.world/rc321mucccmucccmuccc-printer](https://jitsi.rc3.world/rc321mucccmucccmuccc-printer)
+* [https://jitsi.rc3.world/rc321mucccmucccmuccc-session](https://jitsi.rc3.world/rc321mucccmucccmuccc-session)
+* [https://jitsi.rc3.world/rc321mucccmuccccard10](https://jitsi.rc3.world/rc321mucccmuccccard10)
+* [https://jitsi.rc3.world/rc321mucccmuccccard10helpdesk](https://jitsi.rc3.world/rc321mucccmuccccard10helpdesk)
+* [https://jitsi.rc3.world/rc321mucccmucccmuc3lounge](https://jitsi.rc3.world/rc321mucccmucccmuc3lounge)
+
+
+
+
