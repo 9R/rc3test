@@ -6661,19 +6661,15 @@
          "imagewidth":666,
          "margin":0,
          "name":"werkliste_wa_kl",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":260,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"unknown"
-                        }]
-                }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
         }],
