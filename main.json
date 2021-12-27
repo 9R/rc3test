@@ -708,6 +708,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floors",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -731,6 +737,12 @@
          "imagewidth":576,
          "margin":0,
          "name":"Pipoya",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":2394,
          "tileheight":32,
@@ -2464,6 +2476,12 @@
          "imagewidth":718,
          "margin":0,
          "name":"avanti",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":1298,
          "tileheight":32,
@@ -3407,6 +3425,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"community",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -3700,6 +3724,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -3846,6 +3876,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"mc3tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":200,
          "tileheight":32,
@@ -3950,6 +3986,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"acab",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0"
+                }],
          "spacing":0,
          "tilecount":200,
          "tileheight":32,
@@ -4316,6 +4358,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"Anon",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":20,
          "tileheight":32,
@@ -4329,6 +4377,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"mc3waypoints",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":80,
          "tileheight":32,
@@ -4342,6 +4396,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"loungeHouse",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":40,
          "tileheight":32,
@@ -4428,6 +4488,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"tastaturstern9R",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -4634,6 +4700,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"rona",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":24,
          "tileheight":32,
