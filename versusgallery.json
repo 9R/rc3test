@@ -184,6 +184,12 @@
          "imagewidth":1670,
          "margin":0,
          "name":"Versus Grundriss-mittel",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":3796,
          "tileheight":32,
@@ -482,6 +488,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_modern___mack_by_milkian_dbz1aoz",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -643,6 +655,12 @@
          "imagewidth":387,
          "margin":0,
          "name":"vrsfrontlinks-kl-persp-13",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":72,
          "tileheight":32,
@@ -1018,6 +1036,12 @@
          "imagewidth":387,
          "margin":0,
          "name":"vrs-fenster-5",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":72,
          "tileheight":32,
@@ -1573,6 +1597,12 @@
          "imagewidth":387,
          "margin":0,
          "name":"vrs-eingang-5",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":72,
          "tileheight":32,
@@ -4866,6 +4896,12 @@
          "imagewidth":189,
          "margin":0,
          "name":"zanzi1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":25,
          "tileheight":32,
@@ -5016,6 +5052,12 @@
          "imagewidth":167,
          "margin":0,
          "name":"zanzis3",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":20,
          "tileheight":32,
@@ -5119,6 +5161,12 @@
          "imagewidth":170,
          "margin":0,
          "name":"zanzis2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":20,
          "tileheight":32,
@@ -5248,6 +5296,12 @@
          "imagewidth":250,
          "margin":0,
          "name":"veras2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":70,
          "tileheight":32,
@@ -5819,6 +5873,12 @@
          "imagewidth":222,
          "margin":0,
          "name":"tatjanas1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":54,
          "tileheight":32,
@@ -5987,6 +6047,12 @@
          "imagewidth":333,
          "margin":0,
          "name":"tatjanas2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":130,
          "tileheight":32,
@@ -6365,6 +6431,12 @@
          "imagewidth":222,
          "margin":0,
          "name":"zanzis4",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":30,
          "tileheight":32,
