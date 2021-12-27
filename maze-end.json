@@ -74,12 +74,6 @@
          "id":9,
          "name":"maze",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"F35oXMWuOY8otOiq82gI87BbWrn0hR1BLYtX1yvJVT0lbpR76J "
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":10,
