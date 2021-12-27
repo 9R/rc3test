@@ -452,6 +452,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floors",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -475,6 +481,12 @@
          "imagewidth":576,
          "margin":0,
          "name":"Pipoya",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":2394,
          "tileheight":32,
@@ -507,6 +519,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"deviant_milikan",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1142,6 +1160,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"mc3tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0"
+                }],
          "spacing":0,
          "tilecount":200,
          "tileheight":32,
@@ -1273,6 +1297,12 @@
          "imagewidth":718,
          "margin":0,
          "name":"avanti",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":1298,
          "tileheight":32,
@@ -1286,6 +1316,12 @@
          "imagewidth":966,
          "margin":0,
          "name":"p4ul4ner",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":330,
          "tileheight":32,
@@ -1764,7 +1800,13 @@
          "imageheight":375,
          "imagewidth":966,
          "margin":0,
-         "name":"p4ul4ner",
+         "name":"p4ul4ner-2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":330,
          "tileheight":32,
@@ -1779,6 +1821,12 @@
          "imagewidth":966,
          "margin":0,
          "name":"p4ul4ner-neu",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":330,
          "tileheight":32,
