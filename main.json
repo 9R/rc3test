@@ -486,9 +486,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"comment",
                  "type":"string",
-                 "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json#start6"
+                 "value":"von gigo deaktiviert wegen fehlermeldung im Maschinenraum."
                 }],
          "type":"tilelayer",
          "visible":true,
