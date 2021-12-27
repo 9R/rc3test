@@ -38,12 +38,6 @@
          "id":14,
          "name":"guglkurfuerst",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"unknown"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
