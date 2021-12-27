@@ -10,7 +10,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"keller.json#entryTreppe"
                 }],
@@ -28,9 +28,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json#start_muccc"
+                 "value":"world:\/\/lobby\/pcb.json#start_muccc"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -215,7 +215,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"keller.json#entryAufzug"
                 }],
@@ -233,7 +233,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"rattennest.json"
                 }],
@@ -287,7 +287,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"maze.json"
                 }],
