@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":100,
  "infinite":false,
  "layers":[
@@ -71,7 +64,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"maze-end.json"
                 }],
@@ -108,7 +101,7 @@
  "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -119,6 +112,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floors",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -151,6 +150,12 @@
          "imagewidth":576,
          "margin":0,
          "name":"cija_32x32_expansionPipoya_CC0",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":2394,
          "tileheight":32,
@@ -158,6 +163,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":110
 }
