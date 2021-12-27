@@ -6641,6 +6641,12 @@
          "imagewidth":500,
          "margin":0,
          "name":"raumplan_wa_kl2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":150,
          "tileheight":32,
@@ -6658,6 +6664,16 @@
          "spacing":0,
          "tilecount":260,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"unknown"
+                        }]
+                }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
         }],
