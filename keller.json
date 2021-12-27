@@ -43,6 +43,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"muc3Lounge"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -61,6 +66,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"card10helpdesk"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -79,6 +89,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"card10"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
