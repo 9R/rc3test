@@ -102,9 +102,54 @@
          "visible":true,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":14,
+         "name":"badge",
+         "objects":[
+                {
+                 "height":233.206658819573,
+                 "id":2,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"s0Wfsp0CRcP4IQAff4LXWU5laClBKw4E8lSdcSS6rtn07EWdPW"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":390.058853203296,
+                 "x":-31.3704388767446,
+                 "y":98.8464772154027
+                }, 
+                {
+                 "height":50.6070287539936,
+                 "id":4,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"s0Wfsp0CRcP4IQAff4LXWU5laClBKw4E8lSdcSS6rtn07EWdPW"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":137.615604506474,
+                 "x":94.1113166302337,
+                 "y":42.6164452665209
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":14,
- "nextobjectid":2,
+ "nextlayerid":15,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
