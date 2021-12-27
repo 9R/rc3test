@@ -113,12 +113,6 @@
          "id":47,
          "name":"website_fbomb",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
