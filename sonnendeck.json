@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":100,
  "infinite":false,
  "layers":[
@@ -172,8 +165,14 @@
  "nextlayerid":12,
  "nextobjectid":2,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"unknown"
+        }],
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -184,6 +183,12 @@
          "imagewidth":1152,
          "margin":0,
          "name":"beach",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":936,
          "tileheight":32,
@@ -207,6 +212,12 @@
          "imagewidth":1728,
          "margin":0,
          "name":"ship",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":1512,
          "tileheight":32,
@@ -220,6 +231,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floors",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -233,6 +250,12 @@
          "imagewidth":576,
          "margin":0,
          "name":"Pipoya",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknsown"
+                }],
          "spacing":0,
          "tilecount":2394,
          "tileheight":32,
@@ -246,6 +269,12 @@
          "imagewidth":600,
          "margin":0,
          "name":"Monster",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":360,
          "tileheight":32,
@@ -259,6 +288,12 @@
          "imagewidth":184,
          "margin":0,
          "name":"feuer",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -297,6 +332,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"rona",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":24,
          "tileheight":32,
@@ -310,6 +351,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"dinoOGAStrip",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
@@ -317,6 +364,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":100
 }
