@@ -17,15 +17,15 @@
 * more than one place to get lost
 
 ## urls for ingame-jitsis:
-* [https://jitsi.rc3.world/rc321mucccmucccmuccc-hauptraum](https://jitsi.rc3.world/rc321mucccmucccmuccc-hauptraum)
-* [https://jitsi.rc3.world/rc321mucccmucccmuccc-couches](https://jitsi.rc3.world/rc321mucccmucccmuccc-couches)
-* [https://jitsi.rc3.world/rc321mucccmucccmuccc-acab](https://jitsi.rc3.world/rc321mucccmucccmuccc-acab)
-* [https://jitsi.rc3.world/rc321mucccmucccmuccc printer](https://jitsi.rc3.world/rc321mucccmucccmuccc printer)
-* [https://jitsi.rc3.world/rc321mucccmucccmuccc-session](https://jitsi.rc3.world/rc321mucccmucccmuccc-session)
-* [https://jitsi.rc3.world/rc321mucccmuccccard10](https://jitsi.rc3.world/rc321mucccmuccccard10)
-* [https://jitsi.rc3.world/rc321mucccmuccccard10helpdesk](https://jitsi.rc3.world/rc321mucccmuccccard10helpdesk)
-* [https://jitsi.rc3.world/rc321mucccmucccmuc3lounge](https://jitsi.rc3.world/rc321mucccmucccmuc3lounge)
-
+(updated 28.10.21 18h)
+* [https://jitsi.rc3.world/muccc-muccc%20printer](https://jitsi.rc3.world/muccc-muccc%20printer)
+* [https://jitsi.rc3.world/muccc-muccc%20Hauptraum](https://jitsi.rc3.world/muccc-muccc%20Hauptraum)
+* [https://jitsi.rc3.world/muccc-muccc%20ACAB](https://jitsi.rc3.world/muccc-muccc%20ACAB)
+* [https://jitsi.rc3.world/muccc-muccc%20session](https://jitsi.rc3.world/muccc-muccc%20session)
+* [https://jitsi.rc3.world/muccc-muccc%20couches](https://jitsi.rc3.world/muccc-muccc%20couches)
+* [https://jitsi.rc3.world/muccc-muc3Lounge](https://jitsi.rc3.world/muccc-muc3Lounge)
+* [https://jitsi.rc3.world/muccc-card10](https://jitsi.rc3.world/muccc-card10)
+* [https://jitsi.rc3.world/muccc-card10helpdesk](https://jitsi.rc3.world/muccc-card10helpdesk)
 
 
 
