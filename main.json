@@ -4522,6 +4522,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"hswaw",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 1.0 Universal"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
