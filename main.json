@@ -4613,7 +4613,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"unknown"
+                 "value":"Jascha, SSDeV"
                 }],
          "spacing":0,
          "tilecount":6,
@@ -4632,7 +4632,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"unknown"
+                 "value":"Jascha, SSDeV"
                 }],
          "spacing":0,
          "tilecount":6,
