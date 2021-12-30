@@ -827,8 +827,14 @@
                  "height":200.333333333333,
                  "id":1,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/test\/hls\/native"
+                        }],
                  "rotation":0,
-                 "type":"",
+                 "type":"website",
                  "visible":true,
                  "width":383.333333333333,
                  "x":1664.33333333333,
@@ -846,12 +852,6 @@
                  "y":524.666666666667
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"url",
-                 "type":"string",
-                 "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/test\/hls\/native"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
